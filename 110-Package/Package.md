@@ -1,6 +1,8 @@
 # Package
 *By Hilaire Fernandes*
 
+## Search path 
+
 The `Feature require: 'myGreatPackage'` searches for the package file
 `'myGreatPackage'` and installs it. Cuis searches in some default path
 directions. 
