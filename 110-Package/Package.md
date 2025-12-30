@@ -24,4 +24,4 @@ Let's suppose your Cuis-Smalltalk environment is installed in the
   `Cuis-Current`
 
 
-Reference:  method `placeToLookForPackagesDo:`
+Reference:  method `placesToLookForPackagesDo:`
