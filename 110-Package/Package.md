@@ -9,7 +9,7 @@ Let's suppose your Cuis-Smalltalk environment is installed in the
 `Cuis-Current/Cuis-Smalltalk-Dev` directory.
 
 * in the `myGreatPackage` directory, ??? **I don't understand the
-  rational behind**
+  rational behind. IT does not seem to work**
 
 * in the `Packages` folder and its sub-folders of your Cuis
   installation: `Cuis-Current/Cuis-Smalltalk-Dev/Packages`.
