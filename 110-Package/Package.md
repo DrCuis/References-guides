@@ -30,7 +30,7 @@ In a project whose code is hosted in a single package file, when the
 project grows, you may want to split it in several packages to ease
 reuse.
 
-For example in this DrGeo package, 
+For example in this ``DrGeo`` package, 
 
 ![DrGeoCategories](drgeoCategories.png "Dr. Geo class categories")
 
@@ -38,8 +38,8 @@ You may want to split in ``DrGeo-Model`` package for the *DrGeo-Model*
 class category and ``DrGeo`` package for the other part of the code.
 
 So you can have packages called ``DrGeo-Model``, ``DrGeo-View``,
-etc. and one called ``DrGeo`` if you want. Try it, you will see that
-it works.  You can also have packages called ``DrGeoModel``, ``DrGeoView``,
-etc. and ``DrGeo` but they will appear as different categories
+etc. and one called ``DrGeo`` if you want, it works.  You can also
+have packages called ``DrGeoModel``, ``DrGeoView``, etc. then
+``DrGeo`` but they will appear as different categories.
 
 Réf. <https://lists.cuis.st/mailman/archives/cuis-dev/2026-January/011521.html>
