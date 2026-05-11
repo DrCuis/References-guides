@@ -1,17 +1,19 @@
 # References guides
 
 
-* **Host Integration.**
+* **Host Interactions.**
 
-   * [Command Line Options](/100-Host-Integration/Command_Line_Options.md)
+   * [Cuis FFI Primer](/100-Host-Interactions/CuisFFIPrimer.md) provides the
+  necessary information to make effective use of the Cuis FFI.
+   * [Command Line Options](/100-Host-Interactions/Command_Line_Options.md)
+
 
 * **Package.**
 
    * [Package](/110-Package/Package.md)
 
+* **Smalltalk System.**
 
-* **FFI Plugin.**
-
-   * [Cuis FFI Primer](/900-FFI-Plugin/CuisFFIPrimer.md) provides the
-  necessary information to make effective use of the Cuis FFI.
+   * [Cuis Launching Procedure](200-Smalltalk-System/Cuis_Launching_Procedure.md)
+   * [The Preference System](200-Smalltalk-System/Preference-system.md)
   
